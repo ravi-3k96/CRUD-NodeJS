@@ -1,12 +1,12 @@
 {
-  "name": "crudjs",
+  "name": "crud-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "navin@telusko",
+  "author": "ravi usadadiya",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
